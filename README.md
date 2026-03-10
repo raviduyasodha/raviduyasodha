@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Ravidu Yasodha 👋
 
-<!--
-**raviduyasodha/raviduyasodha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BSc in Information Technology Graduate  
+💻 Passionate about Software Development & Problem Solving  
+🚀 Turning ideas into real digital solutions  
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
+I specialize in transforming client ideas into real-world digital solutions.  
+I also have a strong ability to identify real-world problems and develop effective technological solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- MERN Stack Development
+- .NET Application Development
+- MySQL & Database Design
+- UI/UX Design
+- Adobe Photoshop & Illustrator
+
+## 📌 Projects
+🔹 Vehicle Occasioning Web Application (MERN Stack)  
+🔹 Tourist Guiding System with Shortest Path Algorithm  
+🔹 Online Ice Cream Ordering Web Application  
+🔹 Water Bottle Company Management System (.NET + MySQL)
+
+## 🌐 Connect With Me
+- LinkedIn: https://linkedin.com
+- GitHub: https://github.com/raviduyasodha
