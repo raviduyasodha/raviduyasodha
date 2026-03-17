@@ -20,7 +20,7 @@
 - 🚀 I specialize in **turning client ideas into real digital solutions**
 - 🔍 Strong ability to **identify real-world problems and develop effective solutions**
 - 🌱 Currently improving my skills in **Full Stack Development & Modern Web Technologies**
-- 📫 Reach me at **your-email@example.com**
+- 📫 Reach me at **raviduyasodha9@gmail.com**
 
 ---
 
